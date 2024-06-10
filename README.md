@@ -1,4 +1,4 @@
-# Student Services
+# 📑Student Services
 
 ## Description
 The **Student Services** project is a web application developed to streamline the process of requesting and managing school documents for students. It provides a user-friendly interface for students to submit document requests and an administrative interface for staff to review and process these requests efficiently.
@@ -24,8 +24,14 @@ The **Student Services** project is a web application developed to streamline th
 ## Usage
 Student Interface: Visit the application URL and fill out the document request form.
 Admin Interface: Log in with admin credentials to manage and process requests.
-##License 
-This project is licensed under the MIT License.
+
+## Contributing
+
+Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) in this repository.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 
